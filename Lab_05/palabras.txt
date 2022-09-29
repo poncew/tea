@@ -1,0 +1,7 @@
+silla
+mesa
+color
+lobo
+blanco
+negro
+azul
